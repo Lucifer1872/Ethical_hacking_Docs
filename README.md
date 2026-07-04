@@ -1,9 +1,4 @@
-# Lab 3: Using Bettercap, gather detailed information about the victim Windows machine while it is on the network.
-
-**Submitted by:** Manvinder Singh  
-**Roll number:** 2419706  
-**Class:** B.tech Blockchain  
-**Submitted to:** Dr. Yogesh Shahare  
+# Packet Sniffing Attack Demonstration Using Bettercap on a Victim Machine
 
 ---
 
